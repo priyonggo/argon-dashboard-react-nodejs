@@ -56,7 +56,7 @@ If you want to get inspiration or just show something directly to your clients, 
 ## Quick start
 
 - assume you have npm and Mongo DB installed
-- [Download from Github](https://github.com/creativetimofficial/argon-dashboard-react-nodejs).
+- [Download from Github](https://github.com/priyonggo/argon-dashboard-react-nodejs).
 - [Download from Creative Tim](https://www.creative-tim.com/product/argon-dashboard-react?ref=adr-github-readme).
 - Clone the repo: `git clone https://github.com/creativetimofficial/argon-dashboard-react-nodejs`.
 - `npm install` in both front-end and back-end folder
